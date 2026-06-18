@@ -1,0 +1,6 @@
+# Banco gerado pelo seed.php (recriado com: php seed.php / bash reset.sh)
+db/*.sqlite
+db/*.sqlite3
+
+# Logs / temporários
+*.log
